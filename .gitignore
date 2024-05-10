@@ -1,0 +1,12 @@
+# Virtual environment:
+.venv/
+
+# Python bytecodes:
+*.pyc
+
+# macOS system files:
+.DS_Store
+
+# VS Code settings:
+.vscode/
+
